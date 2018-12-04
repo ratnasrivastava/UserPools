@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Rudrapur\'s Food</string>
+    <string name="app_main_screen">Sign in</string>
+    <string name="app_main_screen_title">Rudrapur\'s Food</string>
+    <string name="app_main_desc">People who love to eat are always the best people.</string>
+    <string name="nav_drawer_open">Open navigation drawer</string>
+    <string name="nav_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_user">UserActivity</string>
+    <string name="Username">Phone Number with country code w/o space</string>
+    <string name="Password">Password</string>
+    <string name="Menu">Menu</string>
+    <string name="pick_MFA">MFA Options</string>
+    <string name="title_activity_about_app">AboutApp</string>
+    <string name="about">Frequently Asked Questions \n 1.How to order food Online? \n Ans: Sign Up on Rudrapur\'s Food. Select your fav food.</string>
+    <string name="more_info">For any assistance call us on +918448999700.</string>
+    <string name="title_activity_sign_up_confirm">SignUpConfirm</string>
+    <string name="title_activity_mfa">MFAActivity</string>
+    <string name="title_activity_choose_mfa">ChooseMFA</string>
+    <string name="title_activity_forgot_password">ForgotPasswordActivity</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="title_activity_change_password">ChangePasswordActivity</string>
+    <string name="title_activity_verify">VerifyActivity</string>
+    <string name="title_activity_add_attribute">AddAttributeActivity</string>
+    <string name="title_activity_device_settings">DeviceSettings</string>
+    <string name="title_activity_new_password">NewPassword</string>
+</resources>
